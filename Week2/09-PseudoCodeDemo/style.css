@@ -1,0 +1,7 @@
+.a1:hover{
+    color:green;
+}
+
+.a2:active{
+    background-color: dodgerblue;
+}
